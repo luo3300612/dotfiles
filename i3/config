@@ -311,7 +311,7 @@ exec --no-startup-id clipit
 exec --no-startup-id conky -c ~/.config/conky
 exec --no-startup-id conky -c ~/.config/conky_shortcuts
 
-exec --no-startup-id xautolock -time 10 -locker i3lock-fancy
+exec --no-startup-id xautolock -time 30 -locker i3lock-fancy
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 
