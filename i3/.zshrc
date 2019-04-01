@@ -109,3 +109,4 @@ alias fhelp='echo "F2 chrome\nF3 pcmanfm\nF4 pycharm\nF5 clion\nF6 IDEA\nF7 muzk
 export PASSWORD="3300612"
 export PYTHONPATH="${PYTHONPATH}:~/app/miniconda3/lib/python3.7/site-packages"
 alias tsinghua="sed -i 's/pypi.org/pypi.tuna.tsinghua.edu.cn/g' Pipfile && echo 'Change source Done!\ncurrent source https://pypi.tuna.tsinghua.edu.cn/simple'"
+export EMAIL_PASSWORD="dgohakswpclnbdhi"
